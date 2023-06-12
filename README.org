@@ -1,0 +1,9 @@
+* asteroids
+
+Asteroids game in Common Lisp
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/stacksmith/asteroids.git |
+| commit  | 20dae63                                         |
+| systems | asteroids                                       |
+|---------+-------------------------------------------------|
