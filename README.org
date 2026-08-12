@@ -8,4 +8,4 @@ Asteroids game clone in Common Lisp.
 | systems | asteroids                                       |
 |---------+-------------------------------------------------|
 
- 
+  
